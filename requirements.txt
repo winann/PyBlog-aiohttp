@@ -1,4 +1,4 @@
-aiohttp==3.6.2
+aiohttp==3.7.4
 watchdog==0.10.0
 aiomysql==0.0.20
 Jinja2==2.10.3
